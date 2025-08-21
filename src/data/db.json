@@ -1,30 +1,28 @@
 {
   "files": [
-    [
-      {
-        "name": "Respuestas a Dudas y cambios Esteban 19 de agosto 2025.docx",
-        "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "size": "2.83 MB",
-        "createdAt": "21/8/2025",
-        "createdBy": "UserFile",
-        "tag": "Trabajo"
-      },
-      {
-        "name": "CATALOGO-SER-CROCHET-2025.pdf",
-        "type": "application/pdf",
-        "size": "3.24 MB",
-        "createdAt": "21/8/2025",
-        "createdBy": "UserFile",
-        "tag": "Trabajo"
-      },
-      {
-        "name": "Group 39156.jpg",
-        "type": "image/jpeg",
-        "size": "0.23 MB",
-        "createdAt": "21/8/2025",
-        "createdBy": "UserFile",
-        "tag": "Trabajo"
-      }
-    ]
+    {
+      "name": "Respuestas a Dudas y cambios Esteban 19 de agosto 2025.docx",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": "2.83 MB",
+      "createdAt": "21/8/2025",
+      "createdBy": "UserFile",
+      "tag": "Trabajo"
+    },
+    {
+      "name": "CATALOGO-SER-CROCHET-2025.pdf",
+      "type": "application/pdf",
+      "size": "3.24 MB",
+      "createdAt": "21/8/2025",
+      "createdBy": "UserFile",
+      "tag": "Trabajo"
+    },
+    {
+      "name": "Group 39156.jpg",
+      "type": "image/jpeg",
+      "size": "0.23 MB",
+      "createdAt": "21/8/2025",
+      "createdBy": "UserFile",
+      "tag": "Trabajo"
+    }
   ]
 }
